@@ -1,6 +1,6 @@
-# Qi Sniffer V1.2
+# Qi Sniffer
 Avid Qi sniffer
-- Manufactured By:AVID Technologies
+- Manufactured By: AVID Technologies
 
 The Sniffer is a USB device that can be placed near a Qi compliant wireless charging system (TX and RX pair) and used to capture the wireless communication packets and other system operating information. The Sniffer detects, demodulates, and decodes digital bi-phase communication data of either polarity and at different baud rates. A Windows graphical user interface application displays and logs the packets and other data captured by the Sniffer.  
 
